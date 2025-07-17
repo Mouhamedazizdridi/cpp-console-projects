@@ -15,5 +15,19 @@ Features:
 > Developed using core C++ concepts like structs, vectors, switch-case, files, enums, and input/output formatting.
 
 ---
+### 🏦 bank-extension.cpp
+This project is an **enhanced version** of `bank1.cpp`, adding a new interactive **Transactions Menu** (option 6 in the main menu).
+
+🧾 **New features:**
+- Transactions Menu:
+  - Deposit
+  - Withdraw
+  - Show Total Balance
+  - Return to Main Menu (option 4)
+- Nested menus with clean user navigation
+- Fixed logic to prevent double pause messages (clean return to main menu)
+
+This project builds on the core logic from `bank1.cpp`, while improving user interaction and scalability.
+
 
 More projects will be added soon as I continue learning through the course!
